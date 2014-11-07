@@ -1,0 +1,51 @@
+Go to Scratch for Budding Computer Scientists (link on bit.ly/SAHSCS) and answer the
+following questions.
+
+You will need to create a file that is named your username and paste your answers in it.
+After you have completed the questions, submit a pull request in this same repository.
+
+1) Why is there such a "learning curve" when learning a traditional programming
+language such as Java?
+To learn traditional programming languages such as Jave, you have to learn to read and write the new language.
+
+2) What is learning to program ultimately about?
+Learning to think logically and approach problems methodically.
+
+3) How does Scratch "lower the bar" to programming?
+It allows the budding computer scientist to solve problems rather than syntax.
+
+4) What is a statement in a programming language?
+A directive that tells the computer to do something. 
+
+5) What is a Boolean expression?
+A statement that is either true or false.
+
+6) What is a conditional statement?
+Something that must be true in order for something to happen.
+
+7) What is a loop used for in a programming language?
+To induce multiple executions of statements.
+
+8) What is the difference between a local variable and a global variable?
+A local variable can be used by just one sprite while a global variable can be used by all sprites.
+
+9) What is a Boolean variable?
+A variable that takes place only takes on a value of true or false
+
+10) Which type of blocks in Scratch can be considered threads?
+The when flag is clicked block is considered a thread.
+
+11) Which type of blocks in Scratch can be considered event handlers?
+Broadcast blocks are considered event handlers.
+
+12) How many sprites are implemented in Oscartime?
+9 sprites are implemented in Oscartime.
+
+13) How many threads are used to display the Oscartime game instructions?
+Just one thread is used.
+
+14) How many threads are used by Oscartime's Oscar sprite?
+The Oscar sprite uses 3 threads.
+
+15) What programming constructs does Scratch NOT support?
+Methods, Parameters, Return Values,inheritance and polymorphism are missing from Scratch.
