@@ -48,7 +48,7 @@ Please put your name (username): [Link to your Project]
 14) Lamb, Devan (DMLamb):  http://scratch.mit.edu/projects/32746056/    
 15) Siders, Connor (csiders): http://scratch.mit.edu/projects/32744940/     
 16) Parog, Michael (mparog): http://scratch.mit.edu/projects/32753928/  
-17)   
+17) Atik, Daniel (datik):http://scratch.mit.edu/projects/32745440/  
 18)   
 19)   
 20)   
@@ -72,7 +72,7 @@ Please put your name (username): [Link to your Project]
 12) Parog, Michael (mparog): http://scratch.mit.edu/projects/32943848/  
 13) Basham, Chris (Archrath) : http://scratch.mit.edu/projects/32939884/    
 14) Davis, James (jdavisaol): http://scratch.mit.edu/projects/32751352/     
-15) Atik, Daniel (datik): http://scratch.mit.edu/projects/32939820/
+15)   
 16)   
 17)   
 18)   
